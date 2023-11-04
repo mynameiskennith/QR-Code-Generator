@@ -1,4 +1,4 @@
 import qrcode
 
-qr = qrcode.make("Hello World")
+qr = qrcode.make("How do you do?")
 qr.save("qr_image.png")
